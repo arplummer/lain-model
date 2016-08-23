@@ -1,0 +1,46 @@
+The Lain model of vowel normalization acquisition
+
+
+Description
+-----------
+
+The Lain model is a computational modeling framework that implements a
+theory of the acquisition of vowel normalization during infancy.  This
+distribution of the Lain model is composed of a "base model" and
+supplemental "modules."  The base model implements the core of the
+Lain model, including manifold formation, manifold alignment, and
+response field generation.  Each module consists of implementations
+targeted at demonstrating or modeling specific aspects of speech
+perception and production as they pertain to the acquisition of vowel
+normalization.
+
+
+Bug Reporting
+-------------
+
+Please send Lain model bug reports to <plummer.321@osu.edu>.  
+
+
+Licensing
+---------
+
+Please see the file called 00COPYING.
+
+
+-------------------------------------------------------------------------------
+Copyright 2014-2016 Andrew R. Plummer
+
+This file is part of the Lain model.
+
+The Lain model is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at
+your option) any later version.
+
+The Lain model is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Lain.  If not, see <http://www.gnu.org/licenses/>.

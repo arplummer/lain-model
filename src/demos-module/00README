@@ -1,0 +1,38 @@
+This directory contains the following files:
+
+-- initialization --
+
+initDemosModule.R -- installs packages required by the scripts listed
+below.
+
+
+-- older demos --
+
+basicDemo.R -- demonstrates a very basic alignment of two hexagons
+(requires the main function files manifoldFunctions.R and
+visualizationFunctions.R).
+
+quadAlignmentDemo.R -- demonstrates the alignment of two
+quadrilaterals (requires the base-model function files
+manifoldFunctions.R and visualizationFunctions.R).
+
+quadSequenceDemo.R -- demonstrates the alignment of two quadrilaterals
+and the construction of paths over graphs formed from their aligned
+representations (requires the base-model function files
+manifoldFunctions.R, visualizationFunctions.R, and pathOperations.R).
+
+
+-- newer demos -- 
+
+quadResponseFieldDemo.R -- demonstrates the construction of several
+"response fields" over a quadrilateral data set, and comparison of
+them (requires the base-model function files
+cognitiveObjectFunctions.R and visualizationFunctions.R).
+
+quadSequenceResponseFieldDemo.R -- demonstrates the construction of
+response fields over two quadrilateral data sets, and how they may be
+used for manifold alignment (requires the base-model function files
+cognitiveObjectFunctions.R, manifoldFunctions.R, pathOperations.R, and
+visualizationFunctions.R).
+
+

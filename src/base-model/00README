@@ -1,0 +1,18 @@
+This directory contains the following:
+
+initBaseModel.R -- installs packages required by the scripts listed
+below.
+
+modelObjectFunctions.R -- implementing the basic computations that
+carry out the creation of modelObjects within the modeling
+framework.  
+
+manifoldFunctions.R -- implementing the basic computations that carry
+out laplacian-based manifold alignment.
+
+pathOperations.R -- implementing wrappers for the basic computations
+that carry out path constructions and operations.
+
+visualizationFunctions.R -- some helper functions that aid in
+visualization of response fields, manifolds and manifold alignment.
+
